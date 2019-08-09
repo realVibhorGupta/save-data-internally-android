@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">InternalStorageDemo</string>
+    <string name="load">Load</string>
+    <string name="previous">Previous</string>
+    <string name="username">Username</string>
+    <string name="enter_your_username">enter your username</string>
+</resources>
